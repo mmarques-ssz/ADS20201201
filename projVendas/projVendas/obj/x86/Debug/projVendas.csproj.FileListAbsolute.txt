@@ -1,0 +1,4 @@
+D:\Users\marco.marques\OneDrive\Documentos\Visual Studio 2010\Projects\ADS471_2020s2\projVendas\projVendas\bin\Debug\projVendas.exe
+D:\Users\marco.marques\OneDrive\Documentos\Visual Studio 2010\Projects\ADS471_2020s2\projVendas\projVendas\bin\Debug\projVendas.pdb
+D:\Users\marco.marques\OneDrive\Documentos\Visual Studio 2010\Projects\ADS471_2020s2\projVendas\projVendas\obj\x86\Debug\projVendas.exe
+D:\Users\marco.marques\OneDrive\Documentos\Visual Studio 2010\Projects\ADS471_2020s2\projVendas\projVendas\obj\x86\Debug\projVendas.pdb
